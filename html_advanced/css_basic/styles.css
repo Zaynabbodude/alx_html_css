@@ -1,4 +1,15 @@
 body
 {
+    border: 3px solid black;
+    height: 100vh;
+    padding: 10px;
+}
+header div
+{
+    border: 3px solid black;
 
+}
+header div div
+{
+    border: 30px solid black
 }
