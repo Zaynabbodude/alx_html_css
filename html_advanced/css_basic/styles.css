@@ -4,22 +4,29 @@ body
     height: 500px;
     padding: 100px;
 }
-header div
+header 
 {
-    border: 30px solid black;
+    border: 300px solid black;
+    height: 100px;
+    padding: 50px;
 
 }
-header div div
+header div 
 {
-    border: 30px solid black
+    border: 30px solid black;
+    height: inherit;
+    display: flex;
+    justify-content: space-between;
 }
 section div
 {
      text-align: center;
+     vertical-align: middle;
 }
 section div div
 {
-
+        vertical-align: center;
+        space betwe
 }
 section div div div
 {
