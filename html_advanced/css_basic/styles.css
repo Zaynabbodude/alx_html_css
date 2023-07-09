@@ -1,12 +1,12 @@
 body
 {
     border: 3px solid black;
-    height: 100px;
-    padding: 10px;
+    height: 500px;
+    padding: 100px;
 }
 header div
 {
-    border: 3px solid black;
+    border: 30px solid black;
 
 }
 header div div
@@ -16,5 +16,12 @@ header div div
 section div
 {
      text-align: center;
-     font:bold;
+}
+section div div
+{
+
+}
+section div div div
+{
+
 }
