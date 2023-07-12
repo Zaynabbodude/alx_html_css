@@ -1,29 +1,21 @@
 body
 {
     border: 3px solid black;
-    height: 50px;
-    padding: 5px;
+    height: 600vh;
+    padding: 10px;
 }
-header 
+header
 {
-    border: 3px solid black;
-    height: 10px;
+    border: 2px solid black;
+    height: 20px;
     padding: 5px;
-
-}
-header div 
-{
-    border: 3px solid black;
-    height: inherit;
     display: flex;
     justify-content: space-between;
 }
-section div
+header div div
 {
-     text-align: center;
-     vertical-align: middle;
+    border:1px red;
+    border-width: 250px;
 }
-section div div
-{
-        vertical-align: center
-}
+   
+
