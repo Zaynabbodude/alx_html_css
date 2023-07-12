@@ -27,9 +27,10 @@ header div div
     width: 250px;
 }
 
-header div div 
+header div div a
 {
     border: 1px solid green;
     width: inherit;
     display: flex;
+    justify-content: space-between;
 }
