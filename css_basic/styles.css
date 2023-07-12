@@ -19,7 +19,7 @@ header div
     justify-content: space-between;
     display: flex;
 }
-header div div
+#one
 {
     border: 1px solid red;
     width: 200px ;
