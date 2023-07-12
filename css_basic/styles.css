@@ -1,7 +1,7 @@
 body
 {
     border: 3px solid black;
-    height: 100vh;
+    height: 600vh;
     padding: 10px;
 }
 
@@ -23,6 +23,13 @@ header div
 header div div
 {
     border: 1px solid red;
-    border border-radius: 5px;
+    border-radius: 5px;
     width: 250px;
+}
+
+header div div 
+{
+    border: 1px solid green;
+    width: inherit;
+    display: flex;
 }
