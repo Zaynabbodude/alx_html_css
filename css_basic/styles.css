@@ -8,13 +8,21 @@ body
 header
 {
     border: 2px solid black;
-    height: 100px;
+    height: 50px;
 }
 
 header div
 {
     border: 1px solid grey;
-    height:inherit;
+    /*height:inherit;*/
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
 }
 
-
+header div div
+{
+    border: 1px solid red;
+    border border-radius: 5px;
+    width: 250px;
+}
