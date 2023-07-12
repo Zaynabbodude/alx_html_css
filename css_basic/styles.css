@@ -13,11 +13,9 @@ header
 header div 
 {
     border:2px solid grey;
-    height: 10px;
+    height: 5px;
     padding: 5px;
     border-radius: 5px;
-    justify-content: space-between;
-    display: flex;
 }
 #one
 {
@@ -29,7 +27,6 @@ header div div
 {
     border: 1px solid green;
     width: inherit ;
-    justify-content: center;
 }
     
    
