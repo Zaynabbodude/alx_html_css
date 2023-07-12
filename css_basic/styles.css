@@ -1,33 +1,20 @@
 body
 {
     border: 3px solid black;
-    height: 600vh;
+    height: 100vh;
     padding: 10px;
 }
+
 header
 {
     border: 2px solid black;
     height: 100px;
-    padding: 3px;
 }
-header div 
+
+header div
 {
-    border:2px solid grey;
-    height: 5px;
-    padding: 5px;
-    border-radius: 5px;
+    border: 1px solid grey;
+    height:inherit;
 }
-#one
-{
-    border: 1px solid red;
-    width: 200px ;
-    border-radius: 5px;
-}
-header div div
-{
-    border: 1px solid green;
-    width: inherit ;
-}
-    
-   
+
 
