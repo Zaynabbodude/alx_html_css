@@ -34,3 +34,17 @@ header div div a
     display: flex;
     justify-content: space-between;
 }
+
+main
+{
+    border: 2px solid black;
+    height: 50px;
+}
+section div
+{
+    border: 1px solid black;
+    height: 50px;
+    padding: 5px;
+}
+
+   
