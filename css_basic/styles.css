@@ -78,7 +78,23 @@ main
     border: 1px solid black;
 }
 
-#a2 h4
+#aa2
 {
+    border: 1px solid blue;
+    padding: 10px;
+}
 
+#b2 img 
+{
+    border: 1px solid green;
+}
+
+#name
+{
+    border: 1px solid blue;
+}
+
+#subtitle
+{
+    border: 1px solid purple;
 }
