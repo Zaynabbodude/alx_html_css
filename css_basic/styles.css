@@ -45,20 +45,25 @@ main
 {
     border:1px solid black;
     height: 50vh;
+    padding: 10px;
 }
 #a
 {
     border: 1px solid blue;
     margin-top: 10px;
+    justify-content: center;
 }
 
 #b
 {
     border: 1px solid blueviolet;
     margin-top: 10px;
+    justify-content: center;
 }
 
 #c
 {
     border: 1px solid orange;
+    margin-top: 10px;
+    justify-content: center;
 }
