@@ -75,7 +75,7 @@ main
 
 #a2
 {
-    border: 1px solid black;
+    border: 1px solid blue;
 }
 
 #aa2
@@ -84,7 +84,7 @@ main
     padding: 10px;
 }
 
-#b2 img 
+#b2 h5
 {
     border: 1px solid green;
 }
