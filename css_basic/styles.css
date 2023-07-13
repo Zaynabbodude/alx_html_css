@@ -43,24 +43,24 @@ main
 
 .one
 {
-    border:1px solid black;
-    height: 50vh;
-    padding: 5px;
+    border:2px solid black;
+    padding: 10px;
+    margin-top: 10px;
 }
 
-#1a
+#a1
 {
     border: 1px solid blue;
     margin-top: 10px;
 }
 
-#1b
+#b1
 {
     border: 1px solid blueviolet;
     margin-top: 10px;
 }
 
-#1c
+#c1
 {
     border: 1px solid orange;
     margin-top: 10px;
