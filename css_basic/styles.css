@@ -44,15 +44,18 @@ main
 .one
 {
     border:1px solid black;
+    height: 50vh;
 }
-section div div 
-{
-    border: 1px solid black;
-}
-
-section div div h3
+#a
 {
     border: 1px solid blue;
+    margin-top: 10px;
+}
+
+#b
+{
+    border: 1px solid blueviolet;
+    margin-top: 10px;
 }
 
 section div div div p
