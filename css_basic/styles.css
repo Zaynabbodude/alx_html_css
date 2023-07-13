@@ -49,20 +49,26 @@ main
     align-content: center;
 }
 
-#a
+#1a
 {
     border: 1px solid blue;
     margin-top: 10px;
 }
 
-#b
+#1b
 {
     border: 1px solid blueviolet;
     margin-top: 10px;
 }
 
-#c
+#1c
 {
     border: 1px solid orange;
     margin-top: 10px;
 }
+
+.two
+{
+    border: 1px solid black;
+}
+
