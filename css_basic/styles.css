@@ -84,17 +84,17 @@ main
     padding: 10px;
 }
 
-#b2 h5
+.img
 {
     border: 1px solid green;
 }
 
-#name
+.name
 {
     border: 1px solid blue;
 }
 
-#subtitle
+.subtitle
 {
     border: 1px solid purple;
 }
