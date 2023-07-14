@@ -53,21 +53,26 @@ main
     width: 300px;
     margin: 10px;
     text-align: center;
+    align-content: stretch;
+    
 }
 
 #a1
 {
     border: 1px solid blue;
+    margin-top: 2px;
 }
 
 #b1
 {
     border: 1px solid blueviolet;
+    margin-top: 2px;
 }
 
 #c1
 {
     border: 1px solid orange;
+    margin-top: 2px;
 }
 
 .two
@@ -83,17 +88,22 @@ main
     border: 1px solid blue;
 }
 
-#aa2
+.twoa
 {
-    border: 1px solid blue;
+    border: 1px solid black;
     padding: 10px;
+}
+
+.twob
+{
+
 }
 
 #b2
 {
+    border: 1px solid black;
     justify-content: space-between;
 }
-.img
 {
     border: 1px solid green;
 }
