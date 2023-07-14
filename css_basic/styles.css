@@ -50,10 +50,8 @@ main
 {
     border:2px solid black;
     padding: 10px;
-    width: auto;
     margin: 10px;
     text-align: center;
-    align-content: stretch;
 }
 
 #a1
@@ -77,49 +75,24 @@ main
 .two
 {
     border: 1px solid black;
-    padding: 10px;
-    width: auto;
+    padding: 5px;
     margin: 10px;
     text-align: center;
-    align-content: stretch;
-    justify-content: space-between;
 }
 
 #a2
 {
     border: 1px solid blue;
+    /*height:inherit;*/
 }
 
 .twoa
 {
     border: 1px solid black;
     padding: 10px;
+    height: 600px;
+    display: flex;
+    justify-content: space-around;
 }
 
-.twob
-{
-    padding: 10px;
-}
 
-.b2
-{
-    border: 1px solid black;
-}
-
-.img
-{
-    border: 1px solid green;
-    padding: 5px;
-}
-
-.name
-{
-    border: 1px solid blue;
-    padding: 5px;
-}
-
-.sub
-{
-    border: 1px solid purple;
-    padding: 5px;
-}
