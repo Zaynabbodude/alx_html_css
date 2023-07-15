@@ -98,7 +98,8 @@ main
 .b2
 {
     border: 1px solid black;
-    width:auto;
+    height:auto;
+    padding: 5px;
     display: flex;
     justify-content: space-between;
 }
