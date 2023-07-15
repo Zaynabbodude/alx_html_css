@@ -92,8 +92,9 @@ main
 {
     border: 1px solid black;
     padding: 10px;
-    align-content: space-between;
+    display: flex;
     justify-content: space-between;
+    margin: 10px;
 }
 
 .b2
