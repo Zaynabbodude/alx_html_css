@@ -140,3 +140,26 @@ main
 {
     border:1px solid green;
 }
+
+.b3
+{
+    border:1px solid black;
+    padding: 10px;
+    display: flex;
+}
+
+
+.quote
+{
+    border: 1px solid violet;
+}
+
+.Author
+{
+    border: 1px solid purple;
+}
+
+.Text
+{
+    border: 1px solid purple;
+}
