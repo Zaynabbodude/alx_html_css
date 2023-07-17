@@ -179,8 +179,15 @@ main
     border: 1px solid black;
 }
 
-#a4
+#aa4
 {
     border: 1px solid blue;
     padding: 5px;
 }
+
+.a4
+{
+   border: 1px solid black;
+}
+
+
