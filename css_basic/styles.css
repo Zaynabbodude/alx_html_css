@@ -178,7 +178,7 @@ main
     border: 2px solid black;
     padding: 10px;
     height: 200vh;
-    width: 180px;
+    width: 300px;
     margin-top: 10px;
     margin-left: 10px;
 }
@@ -188,6 +188,7 @@ main
     border: 1px solid blue;
     padding: 10px;
     margin-bottom: 10px;
+
     justify-content: center;
 }
 
@@ -202,8 +203,6 @@ main
     border: 1px solid black;
     padding:10px;
     margin-top: 10px;
-    display: flex;
-    justify-content: space-between;
 }
 
 .img, .i5, .i6, .i7
