@@ -229,13 +229,15 @@ main
 
 .d4
 {
-    border: 1ps solid black;
+    border: 1px solid black;
+    justify-content: space-between;
 }
 
 .img
 {
     border: 1px solid green;
-    padding: 5px;
+    padding: 10px;
+    margin-top: 10px;
 }
 
 .heading
