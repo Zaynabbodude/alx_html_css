@@ -1,7 +1,7 @@
 body
 {
     border: 3px solid black;
-    height: 300vh;
+    height: 350vh;
     padding: 10px;
     display: flex
     flex: column;
@@ -177,7 +177,7 @@ main
 {
     border: 2px solid black;
     padding: 10px;
-    height: 200vh;
+    height: 250vh;
     width: 300px;
     margin-top: 10px;
     margin-left: 10px;
