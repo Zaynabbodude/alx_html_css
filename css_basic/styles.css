@@ -178,12 +178,14 @@ main
 {
     border: 1px solid black;
     padding: 10px;
+    width: 100px;
+    height: 50px;
 }
 
 #aa4
 {
     border: 1px solid blue;
-    padding: 5px;
+    padding: 10px;
 }
 
 .a4
