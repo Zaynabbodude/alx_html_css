@@ -128,6 +128,8 @@ main
     text-align: center;
     padding: 10px;
     margin-top: 10px;
+    width:200px;
+    justify-content: space-between;
 }
 
 #a3
@@ -140,13 +142,18 @@ main
 .img
 {
     border:1px solid green;
+    width: 50px;
+    height:50px;
 }
 
 .b3
 {
-    border:1px solid black;
+    border: 1px solid black;
+    width:50px;
+    height:100px;
     padding: 10px;
     margin-top: 2px;
+    align-content: center;
 
 }
 
