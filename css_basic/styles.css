@@ -231,3 +231,13 @@ main
 {
     border: 1ps solid black;
 }
+
+.img
+{
+    border: 1px solid green;
+}
+
+.heading
+{
+    border: 1px solid blue;
+}
