@@ -178,13 +178,17 @@ main
 {
     border: 1px solid black;
     padding: 10px;
-    height: 400px;
+    height: 600px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 #aa4
 {
     border: 1px solid blue;
     padding: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
 }
 
 .a4
