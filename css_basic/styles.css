@@ -177,6 +177,7 @@ main
 .four
 {
     border: 1px solid black;
+    padding: 10px;
 }
 
 #aa4
@@ -188,6 +189,11 @@ main
 .a4
 {
    border: 1px solid black;
+}
+
+.b4
+{
+    border: 1px solid black
 }
 
 
