@@ -224,5 +224,10 @@ main
 
 .c4
 {
-    
+    border: 1px solid black;
+}
+
+.d4
+{
+    border: 1ps solid black;
 }
