@@ -1,7 +1,7 @@
 body
 {
     border: 3px solid black;
-    height: 600vh;
+    height: 300vh;
     padding: 10px;
     display: flex
     flex: column;
@@ -40,7 +40,7 @@ header div div a
 main
 {
     border:2px solid black;
-    height: 200vh;
+    height: 250vh;
     display: flex;
     flex: row;
     flex: auto;
@@ -177,7 +177,7 @@ main
 {
     border: 2px solid black;
     padding: 10px;
-    height: 300vh;
+    height: 200vh;
     width: 600px;
     margin-top: 10px;
     margin-left: 10px;
