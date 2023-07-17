@@ -178,8 +178,8 @@ main
 {
     border: 2px solid black;
     padding: 10px;
-    height: 800px;
-    width: 600px;
+    height: 500vh;
+    width: 150px;
     margin-top: 10px;
     margin-left: 10px;
 }
@@ -266,6 +266,226 @@ main
     border: 1px solid purple;
 }
 
+.a4
+{
+   border: 1px solid black;
+   padding:10px;
+   
+}
 
+.b4
+{
+    border: 1px solid black;
+    padding:10px;
+    margin-top: 10px;
+}
+
+.img
+{
+    border: 1px solid green;
+    padding: 5px;
+}
+
+.heading
+{
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+.text
+{
+    border: 1px solid purple;
+    padding: 5px;
+}
+
+.c4
+{
+    border: 1px solid black;
+}
+
+.d4
+{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.img
+{
+    border: 1px solid green;
+    margin-top: 5px;
+    margin-right: 5px;
+    content: inherit;
+}
+
+.heading
+{
+    border: 1px solid blue;
+}
+
+.e4
+{
+    border: 1px solid black;
+}
+
+.img
+{
+    border: 1px solid green;
+}
+
+.text
+{
+    border: 1px solid purple;
+}
+
+.a4
+{
+   border: 1px solid black;
+   padding:10px;
+   
+}
+
+.b4
+{
+    border: 1px solid black;
+    padding:10px;
+    margin-top: 10px;
+}
+
+.img
+{
+    border: 1px solid green;
+    padding: 5px;
+}
+
+.heading
+{
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+.text
+{
+    border: 1px solid purple;
+    padding: 5px;
+}
+
+.c4
+{
+    border: 1px solid black;
+}
+
+.d4
+{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.img
+{
+    border: 1px solid green;
+    margin-top: 5px;
+    margin-right: 5px;
+    content: inherit;
+}
+
+.heading
+{
+    border: 1px solid blue;
+}
+
+.e4
+{
+    border: 1px solid black;
+}
+
+.img
+{
+    border: 1px solid green;
+}
+
+.text
+{
+    border: 1px solid purple;
+}
+
+.a4
+{
+   border: 1px solid black;
+   padding:10px;
+   
+}
+
+.b4
+{
+    border: 1px solid black;
+    padding:10px;
+    margin-top: 10px;
+}
+
+.img
+{
+    border: 1px solid green;
+    padding: 5px;
+}
+
+.heading
+{
+    border: 1px solid blue;
+    padding: 5px;
+}
+
+.text
+{
+    border: 1px solid purple;
+    padding: 5px;
+}
+
+.c4
+{
+    border: 1px solid black;
+}
+
+.d4
+{
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.img
+{
+    border: 1px solid green;
+    margin-top: 5px;
+    margin-right: 5px;
+    content: inherit;
+}
+
+.heading
+{
+    border: 1px solid blue;
+}
+
+.e4
+{
+    border: 1px solid black;
+}
+
+.img
+{
+    border: 1px solid green;
+}
+
+.text
+{
+    border: 1px solid purple;
+}
 
 
