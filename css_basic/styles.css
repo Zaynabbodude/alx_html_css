@@ -1,4 +1,4 @@
-body
+.works_on_smartphone
 {
     border: 3px solid black;
     height:400vh;
@@ -40,7 +40,7 @@ header div div a
 main
 {
     border:2px solid black;
-    height: 250vh;
+    height: 270vh;
     display: flex;
     flex: row;
     flex: auto;
@@ -265,6 +265,27 @@ main
     border: 1px solid purple;
 }
 
+footer
+{
+    border: 2px solid black;
+    height:100px;
+    padding: 5px;
+    margin-top: 10px ;
+}
 
+footer div
+{
+    border: 1px solid black;
+    padding: 5px;
+}
 
+#ten
+{
+    border: 1px solid grey;
 
+}
+
+.a10
+{
+    border
+}
