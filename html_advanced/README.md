@@ -1,2 +1,0 @@
-This is the html file of a smile school homepage using the wireframe of the UI design of the website  from figma.
-We have the Head and Body which also contains the Header, Main, Section and the Footer.
