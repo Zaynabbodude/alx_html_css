@@ -1,0 +1,3 @@
+This project involves implementing a web page from the scratch using the knowlegde of html, css, to create a responsive design. The desginer file for the webpage from figma was created by Nicolas Philippot,a UI/UX designer.
+
+This project is the webpage of an headphone company. The fonts to be used include:source-sans-pro and Spin-Cycle-OT. It is required that external CSS framework (like Bootstrap) is not imported and Javascript is not used for this project.
