@@ -54,3 +54,30 @@
          margin: 80px auto;
          text-align: center;
      }
+
+
+
+
+     @media screen and (max-width: 500px){
+          body{
+               background: red;
+          }
+          .header .container .header-logo img {
+               font-size: 2px;
+               display: block;
+               margin: 0 auto;
+               text-align: center;
+          }
+          .header .container {
+               display: block;
+          }
+          .header .section-inner .section-title {
+               font-size: 20px;
+          }
+          .header .section-inner p {
+               font-size: 12px;
+          }
+          .header .section-inner .para {
+               font-size: 12px;
+           }
+     } 
