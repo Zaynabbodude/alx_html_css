@@ -1,23 +1,15 @@
 .header {
-    background-image: url("Image/Object.png") ;
+    background-image: url("Image/Object.png");
     background-size: cover;
     background-position: center;
     height: 193vh;
-    width: 1220px;
 }
 
-.header .one .header-logo img {
-    margin-left: 180px;
-    margin-top: 50px;
-}
-
-.header .one {
+  .header .header-logo {
     display: flex;
     justify-content: space-between;
-}
+    align-items: center;
+  }
 
-.header .one .nav {
-    margin-right: 180px;
-    margin-top: 50px;
-}
+
 
