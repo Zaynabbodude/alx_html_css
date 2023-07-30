@@ -5,11 +5,78 @@
     height: 193vh;
 }
 
-  .header .header-logo {
+  .header .one {
     display: flex;
     justify-content: space-between;
-    align-items: center;
   }
 
+  .header .one .header-logo img {
+    margin-top: 20px;
+    margin-left: 180px;
+  }
 
+  .header .one .navbar-menu {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 0 50px;
+    color: white;
+  }
 
+  .hero .hero-sect {
+    text-align: center;
+    color: #fff;
+    font-style: normal;
+  }
+
+  .hero .hero-sect .title{
+    margin: 20px auto;
+    font-size: 120px;
+  }
+
+  .hero .hero-sect .sub-title{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -140px;
+    font-size: 16px;
+  }
+
+  .hero .hero-sect button {
+    border-radius: 22px;
+    background: #C271FF;
+    width: 168px;
+    height: 44px;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 25px;
+  }
+
+  .hero .hero-sect .text {
+    margin-top: 180px;
+    font-size: 32px;
+  }
+
+  .hero .hero-sect .text p .learn {
+    color: #C271FF;
+  }
+
+.hero .hero-sect .images {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px 120px;
+    text-align: center;
+}
+
+.hero .hero-sect .images .imgc img {
+    border-radius: 50%;
+}
+
+.hero .hero-sect .images .h5 {
+    margin-top: 5px;
+}
+
+.hero .hero-sect .images p {
+    margin-bottom: 2px;
+}
