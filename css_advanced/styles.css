@@ -36,10 +36,17 @@
   }
 
   .hero .hero-sect .sub-title{
-    display: flex;
+    /* display: flex;
     justify-content: space-around;
     margin-top: -140px;
     font-size: 16px;
+    margin-left: 2px; */
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -130px;
   }
 
   .hero .hero-sect button {
@@ -65,18 +72,44 @@
 .hero .hero-sect .images {
     display: flex;
     justify-content: space-around;
-    margin: 50px 120px;
     text-align: center;
+    margin: 95px 180px;
 }
 
 .hero .hero-sect .images .imgc img {
     border-radius: 50%;
 }
 
-.hero .hero-sect .images .h5 {
-    margin-top: 5px;
+.hero .hero-sect .images h6 {
+    margin: -15px;
 }
 
-.hero .hero-sect .images p {
-    margin-bottom: 2px;
+.quote {
+  background-color: #C271FF;
+  background-position: center;
+  color: #fff;
+  height: 392px;
+}
+
+.quote .quote-sect {
+ 
+}
+
+.quote .quote-sect {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+
+.quote .quote-sect .imge {
+  margin-left: 200px;
+  margin-top: 120px;
+}
+  .quote .quote-sect .imge img {
+  width: 130px;
+}
+
+.quote .quote-sect .para {
+  margin-left: 80px;
+  margin-top: 120px;
 }
