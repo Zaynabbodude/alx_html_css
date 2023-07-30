@@ -2,6 +2,22 @@
     background-image: url("Image/Object.png") ;
     background-size: cover;
     background-position: center;
-    height: 1093px;
-    width: 1440px;
+    height: 193vh;
+    width: 1220px;
 }
+
+.header .one .header-logo img {
+    margin-left: 180px;
+    margin-top: 50px;
+}
+
+.header .one {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header .one .nav {
+    margin-right: 180px;
+    margin-top: 50px;
+}
+
