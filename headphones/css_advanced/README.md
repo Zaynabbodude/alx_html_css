@@ -1,1 +1,0 @@
-This file is about the smile school website responsive design.
