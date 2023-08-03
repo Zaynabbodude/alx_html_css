@@ -113,3 +113,154 @@
   margin-left: 80px;
   margin-top: 120px;
 }
+
+.video {
+  background-color: #fff;
+  height: 700px;
+  background-position: center;
+  margin: 0 auto;
+  text-align: center;
+  color:#071629;
+
+}
+
+.video .vid-sec {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: auto;
+}
+
+.video .vid-sec .popular {
+  margin: 0 auto;
+  font-size: 32px;
+}
+
+.video .vid-sec .popular p .purple {
+  color: #C271FF;
+}
+
+.video .vid-sec .rate img {
+  text-align: center;
+  height: 154px;
+  width: 255px;
+}
+
+.video .vid-sec .pen {
+  display: flex;
+  justify-content: space-around;
+}
+
+.video .vid-sec .pen img {
+   height: 50px;
+   width: auto;
+}
+
+.video .vid-sec .first img {
+  height: 20px;
+  width: auto;
+  margin-left: -35px;
+}
+
+.video .vid-sec .pen h1 {
+  font-size: 15px;
+  margin-left: -120px;
+}
+
+.video .vid-sec .pen p {
+  font-size: 16px;
+  margin-right: 120px;
+  color:#C271FF;
+}
+
+.member {
+  background-color: #071629;
+  color: #fff;
+  padding: 50px;
+  text-align: center;
+}
+
+.member h4{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.member .free {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.member h4 span {
+  color: #C271FF;
+}
+
+.member .free div h1 {
+   font-size: 12px;
+   width: 150px;
+   margin-top: 5px;
+   text-align: center;
+}
+
+.member .free div p {
+   width: 150px;
+   text-align: center;
+}
+
+.member div button {
+  font-size: 16px;
+  padding: 5px;
+  border-radius: 10px;
+  margin-top: 25px;
+  background-color: #C271FF;
+  color: #fff;
+}
+
+.faq {
+  margin-top: 30px;
+}
+
+.faq .asked {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 44px;
+}
+
+.faq .how {
+  margin: 0 auto;
+  text-align: center;
+  width: 500px;
+}
+
+.faq .how .zainab {
+   display: flex;
+   justify-content: space-between;
+   gap: 200px;
+   width: 600px;
+   margin: 0 auto;
+   text-align: left;
+}
+ 
+.faq .how .zainab h1 {
+  text-align: left;
+  font-size: 16px;
+  margin-top: 40px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  height: 5vh;
+  background-color: #071629;
+  color: #fff;
+  padding: 100px 50px;
+}
+
+.footer div a i {
+  color: black;
+  padding: 0 3px;
+  margin: 0 10px;
+  border-radius: 50%;
+  background-color: #fff;
+  font-size: 20px;
+}
